@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1333120414 source:c:\projects\c++\inversionscounter\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
+1340562258 source:c:\users\сева\dropbox\public\inversionscounter\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
+1340562258 source:c:\users\vbelousov\dropbox\public\inversionscounter\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
+1340614842 source:c:\projects\algorithms i\01 - inversionscounter\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
